@@ -205,8 +205,8 @@ body{
 }
 
 .post-header ion-icon{
-    margin-top: 20px;
-    margin-right: 19px;
+    padding-top: 20px;
+    padding-right: 19px;
 }
 
 .post > img{
@@ -446,10 +446,6 @@ body{
     }
 
     .coluna-posts{
-        width: 100%;
-    }
-
-    .post{
         width: 100%;
     }
 
